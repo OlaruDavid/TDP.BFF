@@ -17,4 +17,8 @@
     <ProjectReference Include="..\Tdp.Application\Tdp.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DatabaseQueries\" />
+  </ItemGroup>
+
 </Project>
